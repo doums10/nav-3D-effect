@@ -11,11 +11,24 @@ body{
 	min-height: 100vh;
 }
 
-content{
+.content{
 	margin: 2rem 2rem 0 29rem;
 }
 h1{
 	font-size: 6rem;
 	margin: 3rem 0;
 	text-shadow: 4px 4px 0px #d5d5d5, 7px 7px 0px rgba(0,0,0,0.2);
+}
+p{
+	padding:2rem;
+	margin-bottom: 1rem;
+	background:rgba(255,169,9,0.62);
+	border-bottom: 1px solid #333;
+}
+nav{
+	margin: 3rem 0 0 3rem;
+	position:fixed;
+}
+ul{
+	
 }
